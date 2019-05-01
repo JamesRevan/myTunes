@@ -255,8 +255,8 @@ nav li:hover {
     height: 30px;
     display: inline-block;
     position: absolute;
-    top: 20px;
     right: 5px;
+    top: 20px;
   }
   nav a#openup {
     display: block;
